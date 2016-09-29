@@ -2,9 +2,5 @@
 <title>Morgan Courbet's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Tree Trimmer (Level 1)</title><description>Rewrite branches with git filter-branch</description></item>
-<item><title>Carpenter (Level 5)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
-<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
-<item><title>Carpenter (Level 6)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
+<item><title>Apprentice Carpenter (Level 2)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 </channel></rss>
